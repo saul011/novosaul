@@ -127,3 +127,5 @@ Configuração
 Retorno de teste da API
 Enviar a URL na tarefa do teams
 Tarefa 2 - Configuração inicial
+
+* passo 3 09/10
