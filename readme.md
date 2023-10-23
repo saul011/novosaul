@@ -211,3 +211,16 @@ Configuração
 Retorno de teste da API
 Arquivo de rotas com os métodos [GET, POST, PUT, DELETE]
 Enviar a URL na tarefa do teams
+
+* Teste get insomnia
+
+<img src="./assets/metodo_get.PNG">
+
+* Teste post insomnia
+<img src="./assets/met_post.PNG">
+
+* Teste put insomnia
+<img src="./assets/met_put.PNG">
+
+* Teste delete insomnia
+<img src="./assets/met_delete.PNG">
